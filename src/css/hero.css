@@ -1,3 +1,5 @@
 .hero {
   background-color: bisque;
 }
+@media screen and (max-width: 768px) {
+}
