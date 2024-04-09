@@ -1,5 +1,6 @@
 .hero {
   background-color: bisque;
+  background-image: url(../img/javascript.svg);
 }
 @media screen and (max-width: 768px) {
 }
